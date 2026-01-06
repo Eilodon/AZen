@@ -1,0 +1,8 @@
+{
+  "name": "ZenB v6.0 Sentient",
+  "description": "A high-performance, minimalist guided breathing application with Neuro-Somatic AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
